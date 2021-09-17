@@ -13,4 +13,4 @@ Jede Kreuzung weist eine Markierung auf. Die Ameise beginnt an einem ausgezeichn
 Die Nachbarn werden lexikographisch sortiert. Die Ameise geht als nächstes zum Knoten, der an dieser Stelle steht: momentane Markierung modulo Anzahl der Nachbarknoten.
 Die Eingabe gibt den Graphen, den Startpunkt und die Anzahl der Schritte an, die die Ameise macht. Ausgegeben wird der Endpunkt der Ameise und die Knoten mit Markierungen.
 
-Der Graph wird als dynamisches Array von Knoten gespeichert und jeder Knoten erhält eine nach Namen sortierte Nachbarliste als dynamisches array aus Indizes in das Knotenarray.
+Der Graph wird als dynamisches Array von Knoten gespeichert und jeder Knoten erhält eine nach Namen sortierte Nachbarliste als dynamisches Array aus Indizes in das Knotenarray.
